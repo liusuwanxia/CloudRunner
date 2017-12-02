@@ -1,0 +1,8 @@
+Library/
+Temp/
+Obj/
+
+# Autogeneated VS solution
+/.vs/
+*.csproj
+*.sln
